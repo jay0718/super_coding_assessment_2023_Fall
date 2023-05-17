@@ -13,7 +13,7 @@ The main task is to create a new table based on the provided data with certain r
 
 ### Solution
 
-The solution provided utilizes **`pandas`** library in Python for manipulation and analysis of data, and also cleaning the datas for requirements.
+The solution provided utilizes **'pandas'** library in Python for manipulation and analysis of data, and also cleaning the datas for requirements.
 
 ### Dependencies
 - Python 3
